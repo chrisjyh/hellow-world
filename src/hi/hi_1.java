@@ -5,6 +5,7 @@ package hi;
 
 		public static void main(String[] args) {
 			System.out.println("hellow wolrd");
+			System.out.println("my name is bongbong");
 			
 		}
 	}
